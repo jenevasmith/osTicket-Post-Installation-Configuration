@@ -39,7 +39,7 @@ In the Admin Panel, within the Agents tab, select Roles, then click Add New Role
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WVd4MwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Name the New Role, “Supreme Admin,” then click the “Add Role” button.
