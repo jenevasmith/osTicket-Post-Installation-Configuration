@@ -3,7 +3,6 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-# osTicket: Ticket Lifecycle Examples
 This tutorial outlines the osTicket: post-installation of the open-source help desk ticketing system osTicket.<br />
 
 
