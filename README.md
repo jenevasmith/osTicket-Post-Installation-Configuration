@@ -27,8 +27,9 @@ This tutorial outlines the osTicket: post-installation of the open-source help d
 
 <h2>Post-Installation Steps</h2>
 
+  https://imgur.com/WVd4MwC
 <p>
-<img src="https://imgur.com/WVd4MwC"/>
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 <p>
 Configure Roles
