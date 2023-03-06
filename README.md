@@ -28,11 +28,12 @@ This tutorial outlines the osTicket: post-installation of the open-source help d
 <h2>Post-Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/QvqwiB3"/>
 </p>
 <p>
 Configure Roles
-Admin Panel -> Agents -> Roles
+
+In the Admin Panel, within the Agents tab, select Roles, then click Add New Role.
 
 </p>
 <br />
