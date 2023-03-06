@@ -28,7 +28,7 @@ This tutorial outlines the osTicket: post-installation of the open-source help d
 <h2>Post-Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/WVd4MwC.png"/>
+<img src="https://imgur.com/VW2TU8x.png"/>
 </p>
 <p>
 Configure Roles
@@ -39,7 +39,7 @@ In the Admin Panel, within the Agents tab, select Roles, then click Add New Role
 <br />
 
 <p>
-<img src="https://imgur.com/WVd4MwC.png"/>
+<img src="https://imgur.com/BEN58jj.png"/>
 </p>
 <p>
 Name the New Role, “Supreme Admin,” then click the “Add Role” button.
