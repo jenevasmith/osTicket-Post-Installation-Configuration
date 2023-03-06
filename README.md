@@ -29,7 +29,7 @@ This tutorial outlines the osTicket: post-installation of the open-source help d
 
   https://imgur.com/WVd4MwC
 <p>
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://imgur.com/WVd4MwC.png"/>
 </p>
 <p>
 Configure Roles
