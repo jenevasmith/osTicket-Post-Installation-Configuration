@@ -27,7 +27,6 @@ This tutorial outlines the osTicket: post-installation of the open-source help d
 
 <h2>Post-Installation Steps</h2>
 
-  https://imgur.com/WVd4MwC
 <p>
 <img src="https://imgur.com/WVd4MwC.png"/>
 </p>
@@ -43,7 +42,7 @@ In the Admin Panel, within the Agents tab, select Roles, then click Add New Role
 <img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Supreme Admin
+Name the New Role, “Supreme Admin,” then click the “Add Role” button.
 </p>
 <br />
 
@@ -52,7 +51,9 @@ Supreme Admin
 </p>
 <p>
 Configure Departments
-Admin Panel -> Agents -> Departments
+
+  In the Admin Panel, within the Agents tab, select Departments, then click the “Add New Department” button.
+
 
 </p>
 <br />
@@ -62,5 +63,7 @@ Admin Panel -> Agents -> Departments
 </p>
 <p>
 System Administrators
+  
+Add a New Department within the Settings named, “System Administrators,” then click the Create Dept button.
 </p>
 <br />
