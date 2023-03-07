@@ -59,7 +59,199 @@ In the Admin Panel, within the Agents tab, select Departments, then click the �
   
 Add a New Department within the Settings named, “System Administrators,” then click the Create Dept button.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
+- Configure Teams
+  
+In the Admin Panel, within the Agents tab, select Teams, then click on the Add New Team button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+
+- Level I Support
+  
+Notice how Level I Support is a default team within osTicket.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Level II Support
+  
+Click the Add New Team button. Then, name the team, “Level II Support.”
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Allow anyone to create tickets. 
+  
+In the Admin Panel, click the Settings tab, and select users. 
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Registration
+  
+Do not require registration and login to create tickets, by Then, where it says, “Registration Required” uncheck the “require registration and login to create tickets” box.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Configure Agents (help desk professionals)
+  
+In the Admin Panel, within the Agents tab, select Agents, then click the Add New Agent button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Agents
+  
+In the Account tab, add a New Agent - Name, “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “jane.doe.” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+In the Account tab, add a New Agent - Name, “John Doe,” Email Address, “john.doe@osticket.com,” Username, “john.doe.” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Configure Users (customers)
+  
+Create a new user named, “Karen” by switching to the Agent Panel, select the Users tab, then click the Add User button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+Create a new user named, “Ken,” in the Agent Panel, select the Users tab, then click the Add User button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+Create Ken’s Email Address, “Ken@osticket.com,” Full Name, “Ken Ken.” Click Add User.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Configure SLA
+  
+Switch back to the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- SEV-A
+Name the SLA, “SEV-A,” set the Schedule as, “24/7,” Grace Period, “1 (in hours),” then click the Add Plan button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- SEV-B
+  
+Name the SLA, “SEV-B,” set the Schedule as, “24/7,” Grace Period, “4 (in hours),” then click the Add Plan button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- SEV-C
+  
+Name the SLA, “SEV-C,” set the Schedule as, “Monday - Friday, 8am - 5pm with U.S. Holidays,” Grace Period, “8 (in hours),” then click the Add Plan button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Configure Help Topics
+  
+In the Admin Panel, click on the Manage tab, select the Help Topics option, then click the Add New Help Topic button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+
+- Business Critical Outage
+Within the Help Topic Information tab, add “Business Critical Outage” as a Topic, then click the Add Topic button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Personal Computer Issues
+  
+Within the Help Topic Information tab, add “Personal Computer Issues” as a Topic, then click the Add Topic button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+Select the Help Topics option, then click the Add New Help Topic button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Equipment Request
+  
+Within the Help Topic Information tab, add “Equipment Request” as a Topic, then click the Add Topic button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+Select the Help Topics option, then click the Add New Help Topic button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Password Reset
+  
+Within the Help Topic Information tab, add “Password Reset” as a Topic, then click the Add Topic button.
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Header
+  
+Text
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
+- Header
+  
+Text
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
+  
