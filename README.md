@@ -24,46 +24,42 @@ This tutorial outlines the osTicket: post-installation of the open-source help d
 - Browse to your <a href="http://localhost/osTicket/scp/login.php">help desk login page.
 - Browse <a href="http://localhost/osTicket/">End Users osTicket URL.
 
-
 <h2>Post-Installation Steps</h2>
 
+- Configure Roles
 <p>
-<img src="https://imgur.com/VW2TU8x"/.png>
-</p>
-<p>
-Configure Roles
 
 In the Admin Panel, within the Agents tab, select Roles, then click Add New Role.
-
-</p>
-<br />
-
 <p>
-<img src="https://imgur.com/8gDvdux.png"/>
+<img src="https://imgur.com/VW2TU8x.png">
 </p>
 <p>
+  
+- Supreme Admin
+ <p>
+    
 Name the New Role, “Supreme Admin,” then click the “Add Role” button.
-</p>
-<br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://imgur.com/8gDvdux.png">
 </p>
 <p>
-Configure Departments
 
-  In the Admin Panel, within the Agents tab, select Departments, then click the “Add New Department” button.
+  
+- Configure Departments
 
-
-</p>
-<br />
-
+In the Admin Panel, within the Agents tab, select Departments, then click the “Add New Department” button.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/aeO9g3A.png">
 </p>
 <p>
-System Administrators
+
+  
+- System Administrators
   
 Add a New Department within the Settings named, “System Administrators,” then click the Create Dept button.
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+<p>
+
