@@ -59,7 +59,7 @@ In the Admin Panel, within the Agents tab, select Departments, then click the �
   
 Add a New Department within the Settings named, “System Administrators,” then click the Create Dept button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/XAWStbW.png">
 </p>
 <p>
 
@@ -67,7 +67,7 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 In the Admin Panel, within the Agents tab, select Teams, then click on the Add New Team button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/jQjYPjM.png">
 </p>
 <p>
 
@@ -75,7 +75,7 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Notice how Level I Support is a default team within osTicket.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+6 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -83,7 +83,7 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Click the Add New Team button. Then, name the team, “Level II Support.”
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+7 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -91,7 +91,7 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 In the Admin Panel, click the Settings tab, and select users. 
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+8 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -99,7 +99,7 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Do not require registration and login to create tickets, by Then, where it says, “Registration Required” uncheck the “require registration and login to create tickets” box.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+9 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -107,7 +107,7 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 In the Admin Panel, within the Agents tab, select Agents, then click the Add New Agent button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+10 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -115,13 +115,13 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 In the Account tab, add a New Agent - Name, “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “jane.doe.” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+11 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 In the Account tab, add a New Agent - Name, “John Doe,” Email Address, “john.doe@osticket.com,” Username, “john.doe.” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+12 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -129,19 +129,19 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Create a new user named, “Karen” by switching to the Agent Panel, select the Users tab, then click the Add User button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+13 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 Create a new user named, “Ken,” in the Agent Panel, select the Users tab, then click the Add User button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+14 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 Create Ken’s Email Address, “Ken@osticket.com,” Full Name, “Ken Ken.” Click Add User.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+15 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -149,20 +149,20 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Switch back to the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+16 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 - SEV-A
 Name the SLA, “SEV-A,” set the Schedule as, “24/7,” Grace Period, “1 (in hours),” then click the Add Plan button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+17 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+18 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -170,13 +170,13 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Name the SLA, “SEV-B,” set the Schedule as, “24/7,” Grace Period, “4 (in hours),” then click the Add Plan button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+19 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+20 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -184,7 +184,7 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Name the SLA, “SEV-C,” set the Schedule as, “Monday - Friday, 8am - 5pm with U.S. Holidays,” Grace Period, “8 (in hours),” then click the Add Plan button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+21 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -192,14 +192,14 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 In the Admin Panel, click on the Manage tab, select the Help Topics option, then click the Add New Help Topic button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+22 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
 
 - Business Critical Outage
 Within the Help Topic Information tab, add “Business Critical Outage” as a Topic, then click the Add Topic button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+23 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -207,13 +207,13 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Within the Help Topic Information tab, add “Personal Computer Issues” as a Topic, then click the Add Topic button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+24 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 Select the Help Topics option, then click the Add New Help Topic button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+25 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -221,13 +221,13 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Within the Help Topic Information tab, add “Equipment Request” as a Topic, then click the Add Topic button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+26 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
 Select the Help Topics option, then click the Add New Help Topic button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+27 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -235,7 +235,7 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Within the Help Topic Information tab, add “Password Reset” as a Topic, then click the Add Topic button.
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+28 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -243,7 +243,7 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+29 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
@@ -251,7 +251,12 @@ Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
   
 Text
 <p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+30 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
 </p>
 <p>
   
+Text
+<p>
+Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+</p>
+<p>
