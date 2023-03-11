@@ -133,34 +133,35 @@ Create a new user named, “Karen” by switching to the Agent Panel, select the
 </p>
 <p>
   
-Create a new user named, “Ken,” in the Agent Panel, select the Users tab, then click the Add User button.
+Create Karen’s Email Address, “Karen@osticket.com,” Full Name, “Karen Karen.” Click Add User. 
 <p>
 <img src="https://imgur.com/CCcdwDf.png">
 </p>
 <p>
   
-Create Ken’s Email Address, “Ken@osticket.com,” Full Name, “Ken Ken.” Click Add User.
+Create a new user named, “Ken,” in the Agent Panel, select the Users tab, then click the Add User button.
 <p>
 <img src="https://imgur.com/tstVOiS.png">
 </p>
 <p>
   
-- Configure SLA
-  
-Switch back to the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
+Create Ken’s Email Address, “Ken@osticket.com,” Full Name, “Ken Ken.” Click Add User. 
 <p>
 <img src="https://imgur.com/lbLWR1M.png">
 </p>
 <p>
   
-- SEV-A
-Name the SLA, “SEV-A,” set the Schedule as, “24/7,” Grace Period, “1 (in hours),” then click the Add Plan button.
+- Configure SLA
+  
+Switch back to the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button. 
 <p>
 <img src="https://imgur.com/lxNq2Rt.png">
 </p>
 <p>
   
-In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
+- SEV-A
+  
+Name the SLA, “SEV-A,” set the Schedule as, “24/7,” Grace Period, “1 (in hours),” then click the Add Plan button.
 <p>
 <img src="https://imgur.com/SmCfXWs.png">
 </p>
@@ -168,13 +169,13 @@ In the Admin Panel, click the Manage tab, select the SLA option, then click on t
   
 - SEV-B
   
-Name the SLA, “SEV-B,” set the Schedule as, “24/7,” Grace Period, “4 (in hours),” then click the Add Plan button.
+In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button. 
 <p>
 <img src="https://imgur.com/ETgbU6l.png">
 </p>
 <p>
   
-In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
+Name the SLA, “SEV-B,” set the Schedule as, “24/7,” Grace Period, “4 (in hours),” then click the Add Plan button.
 <p>
 <img src="https://imgur.com/BFdGJpm.png">
 </p>
@@ -182,15 +183,13 @@ In the Admin Panel, click the Manage tab, select the SLA option, then click on t
   
 - SEV-C
   
-Name the SLA, “SEV-C,” set the Schedule as, “Monday - Friday, 8am - 5pm with U.S. Holidays,” Grace Period, “8 (in hours),” then click the Add Plan button.
+In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button. 
 <p>
 <img src="https://imgur.com/wHniEWB.png">
 </p>
 <p>
   
-- Configure Help Topics
-  
-In the Admin Panel, click on the Manage tab, select the Help Topics option, then click the Add New Help Topic button.
+Name the SLA, “SEV-C,” set the Schedule as, “Monday - Friday, 8am - 5pm with U.S. Holidays,” Grace Period, “8 (in hours),” then click the Add Plan button. 
 <p>
 <img src="https://imgur.com/Yyqm7hn.png">
 </p>
@@ -210,6 +209,8 @@ Within the Help Topic Information tab, add “Business Critical Outage” as a T
 <img src="https://imgur.com/e5UquAT.png">
 </p>
 <p>
+
+- Help Topics
   
 Select the Help Topics option, then click the Add New Help Topic button.
 <p>
