@@ -255,9 +255,3 @@ Within the Help Topic Information tab, add “Password Reset” as a Topic, then
 <img src="https://imgur.com/5XgLSDq.png">
 </p>
 <p>
-  
-Text
-<p>
-Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
-</p>
-<p>
