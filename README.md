@@ -196,16 +196,16 @@ In the Admin Panel, click on the Manage tab, select the Help Topics option, then
 </p>
 <p>
 
-- Business Critical Outage
-Within the Help Topic Information tab, add “Business Critical Outage” as a Topic, then click the Add Topic button.
+- Configure Help Topics
+In the Admin Panel, click on the Manage tab, select the Help Topics option, then click the Add New Help Topic button.
 <p>
 <img src="https://imgur.com/FBF4S98.png">
 </p>
 <p>
   
-- Personal Computer Issues
+- Business Critical Outage
   
-Within the Help Topic Information tab, add “Personal Computer Issues” as a Topic, then click the Add Topic button.
+Within the Help Topic Information tab, add “Business Critical Outage” as a Topic, then click the Add Topic button.  
 <p>
 <img src="https://imgur.com/e5UquAT.png">
 </p>
@@ -217,13 +217,15 @@ Select the Help Topics option, then click the Add New Help Topic button.
 </p>
 <p>
   
-- Equipment Request
+- Personal Computer Issues
   
-Within the Help Topic Information tab, add “Equipment Request” as a Topic, then click the Add Topic button.
+Within the Help Topic Information tab, add “Personal Computer Issues” as a Topic, then click the Add Topic button.
 <p>
 <img src="https://imgur.com/5cRel3V.png">
 </p>
 <p>
+
+- Help Topics
   
 Select the Help Topics option, then click the Add New Help Topic button.
 <p>
@@ -231,25 +233,23 @@ Select the Help Topics option, then click the Add New Help Topic button.
 </p>
 <p>
   
-- Password Reset
+- Equipment Request
   
-Within the Help Topic Information tab, add “Password Reset” as a Topic, then click the Add Topic button.
+Within the Help Topic Information tab, add “Equipment Request” as a Topic, then click the Add Topic button.
 <p>
 <img src="https://imgur.com/u0wL58g.png">
 </p>
 <p>
   
-- Header
+- Help Topics
   
-Text
+Select the Help Topics option, then click the Add New Help Topic button. 
 <p>
 <img src="https://imgur.com/eNOWgXy.png">
 </p>
 <p>
   
-- Header
-  
-Text
+Within the Help Topic Information tab, add “Password Reset” as a Topic, then click the Add Topic button.
 <p>
 30 Place holder image <img src="https://imgur.com/5XgLSDq.png">
 </p>
