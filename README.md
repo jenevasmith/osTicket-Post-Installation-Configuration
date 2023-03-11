@@ -252,7 +252,7 @@ Select the Help Topics option, then click the Add New Help Topic button.
   
 Within the Help Topic Information tab, add “Password Reset” as a Topic, then click the Add Topic button.
 <p>
-30 Place holder image <img src="https://imgur.com/5XgLSDq.png">
+<img src="https://imgur.com/5XgLSDq.png">
 </p>
 <p>
   
