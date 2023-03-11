@@ -170,13 +170,13 @@ In the Admin Panel, click the Manage tab, select the SLA option, then click on t
   
 Name the SLA, “SEV-B,” set the Schedule as, “24/7,” Grace Period, “4 (in hours),” then click the Add Plan button.
 <p>
-19 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/ETgbU6l.png">
 </p>
 <p>
   
 In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
 <p>
-20 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/BFdGJpm.png">
 </p>
 <p>
   
@@ -184,7 +184,7 @@ In the Admin Panel, click the Manage tab, select the SLA option, then click on t
   
 Name the SLA, “SEV-C,” set the Schedule as, “Monday - Friday, 8am - 5pm with U.S. Holidays,” Grace Period, “8 (in hours),” then click the Add Plan button.
 <p>
-21 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/wHniEWB.png">
 </p>
 <p>
   
@@ -192,14 +192,14 @@ Name the SLA, “SEV-C,” set the Schedule as, “Monday - Friday, 8am - 5pm wi
   
 In the Admin Panel, click on the Manage tab, select the Help Topics option, then click the Add New Help Topic button.
 <p>
-22 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/Yyqm7hn.png">
 </p>
 <p>
 
 - Business Critical Outage
 Within the Help Topic Information tab, add “Business Critical Outage” as a Topic, then click the Add Topic button.
 <p>
-23 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/FBF4S98.png">
 </p>
 <p>
   
@@ -207,13 +207,13 @@ Within the Help Topic Information tab, add “Business Critical Outage” as a T
   
 Within the Help Topic Information tab, add “Personal Computer Issues” as a Topic, then click the Add Topic button.
 <p>
-24 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/e5UquAT.png">
 </p>
 <p>
   
 Select the Help Topics option, then click the Add New Help Topic button.
 <p>
-25 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/pjlYZuo.png">
 </p>
 <p>
   
@@ -221,13 +221,13 @@ Select the Help Topics option, then click the Add New Help Topic button.
   
 Within the Help Topic Information tab, add “Equipment Request” as a Topic, then click the Add Topic button.
 <p>
-26 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/5cRel3V.png">
 </p>
 <p>
   
 Select the Help Topics option, then click the Add New Help Topic button.
 <p>
-27 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/pDq4Vw3.png">
 </p>
 <p>
   
@@ -235,7 +235,7 @@ Select the Help Topics option, then click the Add New Help Topic button.
   
 Within the Help Topic Information tab, add “Password Reset” as a Topic, then click the Add Topic button.
 <p>
-28 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/u0wL58g.png">
 </p>
 <p>
   
@@ -243,7 +243,7 @@ Within the Help Topic Information tab, add “Password Reset” as a Topic, then
   
 Text
 <p>
-29 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/eNOWgXy.png">
 </p>
 <p>
   
@@ -251,7 +251,7 @@ Text
   
 Text
 <p>
-30 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+30 Place holder image <img src="https://imgur.com/5XgLSDq.png">
 </p>
 <p>
   
