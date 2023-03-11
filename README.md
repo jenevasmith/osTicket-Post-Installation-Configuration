@@ -75,7 +75,7 @@ In the Admin Panel, within the Agents tab, select Teams, then click on the Add N
   
 Notice how Level I Support is a default team within osTicket.
 <p>
-6 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/2n0dQ2U.png">
 </p>
 <p>
   
@@ -83,7 +83,7 @@ Notice how Level I Support is a default team within osTicket.
   
 Click the Add New Team button. Then, name the team, “Level II Support.”
 <p>
-7 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/nU04zbv.png">
 </p>
 <p>
   
@@ -91,7 +91,7 @@ Click the Add New Team button. Then, name the team, “Level II Support.”
   
 In the Admin Panel, click the Settings tab, and select users. 
 <p>
-8 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/sEALYHY.png">
 </p>
 <p>
   
@@ -99,7 +99,7 @@ In the Admin Panel, click the Settings tab, and select users.
   
 Do not require registration and login to create tickets, by Then, where it says, “Registration Required” uncheck the “require registration and login to create tickets” box.
 <p>
-9 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/MtVEbBD.png">
 </p>
 <p>
   
@@ -107,7 +107,7 @@ Do not require registration and login to create tickets, by Then, where it says,
   
 In the Admin Panel, within the Agents tab, select Agents, then click the Add New Agent button.
 <p>
-10 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/2b0C19Z.png">
 </p>
 <p>
   
