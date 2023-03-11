@@ -118,14 +118,30 @@ In the Account tab, add a New Agent - Name, “Jane Doe,” Email Address: “ja
 <img src="https://imgur.com/bQtgYEX.png">
 </p>
 <p>
-
-- Access
+  
+  - Access
   
 Click the Access tab to select the agent’s Department, ensuring that the Primary Department “System Administrators,” and Role, “System Admin” have been selected. 
+<p>
+<img src=https://imgur.com/gwhIuJT.png">
+</p>
+<p>
+  
+ - Support
+  
+In the Extended Access section, click the “Select Department” drop down menu, then select “Support.”
+<p>
+<img src="https://imgur.com/nLKMn96.png">
+                               
+- Supreme Admin
+  
+In the Extended Access section, click on the “Select Role” drop down menu and select the “Supreme Admin” option. Afterwards, click the Create button. 
 <p>
 <https://imgur.com/gwhIuJT.png">
 </p>
 <p>
+  
+- Agents
   
 In the Account tab, add a New Agent - Name, “John Doe,” Email Address, “john.doe@osticket.com,” Username, “john.doe” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button.
 <p>
