@@ -115,13 +115,13 @@ In the Admin Panel, within the Agents tab, select Agents, then click the Add New
   
 In the Account tab, add a New Agent - Name, “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “jane.doe.” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button.
 <p>
-11 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/bQtgYEX.png">
 </p>
 <p>
   
 In the Account tab, add a New Agent - Name, “John Doe,” Email Address, “john.doe@osticket.com,” Username, “john.doe.” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button.
 <p>
-12 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/Q4bFPaq.png">
 </p>
 <p>
   
@@ -129,19 +129,19 @@ In the Account tab, add a New Agent - Name, “John Doe,” Email Address, “jo
   
 Create a new user named, “Karen” by switching to the Agent Panel, select the Users tab, then click the Add User button.
 <p>
-13 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/f25OtMv.png">
 </p>
 <p>
   
 Create a new user named, “Ken,” in the Agent Panel, select the Users tab, then click the Add User button.
 <p>
-14 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/CCcdwDf.png">
 </p>
 <p>
   
 Create Ken’s Email Address, “Ken@osticket.com,” Full Name, “Ken Ken.” Click Add User.
 <p>
-15 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/tstVOiS.png">
 </p>
 <p>
   
@@ -149,20 +149,20 @@ Create Ken’s Email Address, “Ken@osticket.com,” Full Name, “Ken Ken.” 
   
 Switch back to the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
 <p>
-16 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/lbLWR1M.png">
 </p>
 <p>
   
 - SEV-A
 Name the SLA, “SEV-A,” set the Schedule as, “24/7,” Grace Period, “1 (in hours),” then click the Add Plan button.
 <p>
-17 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/lxNq2Rt.png">
 </p>
 <p>
   
 In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button.
 <p>
-18 Place holder image <img src="https://i.imgur.com/DJmEXEB.png">
+<img src="https://imgur.com/SmCfXWs.png">
 </p>
 <p>
   
