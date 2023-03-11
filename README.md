@@ -113,13 +113,13 @@ In the Admin Panel, within the Agents tab, select Agents, then click the Add New
   
 - Agents
   
-In the Account tab, add a New Agent - Name, “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “jane.doe.” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button.
+In the Account tab, add a New Agent - Name, “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “jane.doe” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button.
 <p>
 <img src="https://imgur.com/bQtgYEX.png">
 </p>
 <p>
   
-In the Account tab, add a New Agent - Name, “John Doe,” Email Address, “john.doe@osticket.com,” Username, “john.doe.” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button.
+In the Account tab, add a New Agent - Name, “John Doe,” Email Address, “john.doe@osticket.com,” Username, “john.doe” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button.
 <p>
 <img src="https://imgur.com/Q4bFPaq.png">
 </p>
