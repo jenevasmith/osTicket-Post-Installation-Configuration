@@ -89,7 +89,7 @@ In the Admin Panel, click the Settings tab, and select users. <img src="https://
 - Registration
   
 <p>
-Do not require registration and login to create tickets, by Then, where it says, “Registration Required” uncheck the “require registration and login to create tickets” box. <img src="https://imgur.com/MtVEbBD.png">
+Do not require registration to create tickets, by unchecking the box next to “Registration Required.” <img src="https://imgur.com/MtVEbBD.png">
 </p>
 <p>
   
@@ -207,7 +207,7 @@ Within the Help Topic Information tab, add “Business Critical Outage” as a T
 </p>
 <p>
 
-- Help Topics
+- Add New Help Topic
   
 <p>
 Select the Help Topics option, then click the Add New Help Topic button. <img src="https://imgur.com/pjlYZuo.png">
@@ -221,28 +221,28 @@ Within the Help Topic Information tab, add “Personal Computer Issues” as a T
 </p>
 <p>
 
-- Help Topics
+- Add New Help Topic
   
 <p>
 Select the Help Topics option, then click the Add New Help Topic button. <img src="https://imgur.com/pDq4Vw3.png">
 </p>
 <p>
-  
+
 - Equipment Request
-  
 <p>
 Within the Help Topic Information tab, add “Equipment Request” as a Topic, then click the Add Topic button. <img src="https://imgur.com/u0wL58g.png">
 </p>
 <p>
   
-- Help Topics
+- Add New Help Topic
   
 <p>
 Select the Help Topics option, then click the Add New Help Topic button. <img src="https://imgur.com/eNOWgXy.png">
 </p>
 <p>
   
-
+- Password Reset
+  
 <p>
 Within the Help Topic Information tab, add “Password Reset” as a Topic, then click the Add Topic button. <img src="https://imgur.com/5XgLSDq.png">
 </p>
