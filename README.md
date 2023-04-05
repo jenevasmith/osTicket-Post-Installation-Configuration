@@ -137,7 +137,15 @@ In the Extended Access section, click on the “Select Role” drop down menu an
 - Agents
   
 <p>
-In the Account tab, add a New Agent - Name, “John Doe,” Email Address, “john.doe@osticket.com,” Username, “john.doe” Click the set password button, selecting the password and password settings of your choice. Click the set. Then, click the Access tab to select the agent’s Department, Role, and Extended Access. Afterwards, click the Create button. <img src="https://imgur.com/Q4bFPaq.png">
+In the Account tab, add a New Agent.
+</p>
+<p>
+<p>
+Name: “John Doe,” Email Address: “john.doe@osticket.com,” Username: “john.doe”  
+</p>
+<p>
+<p>
+Click the set password button. Select the password and password settings of your choice. Then, click the Access tab to select the Agent’s Department, Role, and Extended Access. Afterwards, click the Create button. <img src="https://imgur.com/Q4bFPaq.png">
 </p>
 <p>
   
