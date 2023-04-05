@@ -145,7 +145,7 @@ Name: “John Doe,” Email Address: “John.Doe@osticket.com,” Username: “j
 </p>
 <p>
 <p>
-Click the set password button. Select the password and password settings of your choice. Then, click the Access tab to select the Agent’s Department, Role, and Extended Access. Afterwards, click the Create button. <img src="https://imgur.com/Q4bFPaq.png">
+Click the set password button. Select the password and password settings of your choice. <img src="https://imgur.com/Q4bFPaq.png">
 </p>
 <p>
   
