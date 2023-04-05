@@ -191,31 +191,31 @@ Switch back to the Admin Panel. Click the Manage tab. Select the SLA option. The
 - SEV-A
   
 <p>
-Name the SLA, “SEV-A,” set the Schedule as, “24/7,” Grace Period, “1 (in hours),” then click the Add Plan button. <img src="https://imgur.com/SmCfXWs.png">
+Name the SLA, “SEV-A,” set the Schedule as “24/7,” with a Grace Period of “1 (in hours).” Then, click the Add Plan button. <img src="https://imgur.com/SmCfXWs.png">
 </p>
 <p>
   
 - SEV-B
   
 <p>
-In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button. <img src="https://imgur.com/ETgbU6l.png">
+In the Admin Panel, click the Manage tab. Select the SLA option. Then, click on the Add New SLA Plan button. <img src="https://imgur.com/ETgbU6l.png">
 </p>
 <p>
   
 <p>
-Name the SLA, “SEV-B,” set the Schedule as, “24/7,” Grace Period, “4 (in hours),” then click the Add Plan button. <img src="https://imgur.com/BFdGJpm.png">
+Name the SLA “SEV-B,” set the Schedule as, “24/7,” with a Grace Period of “4 (in hours).” Then, click the Add Plan button. <img src="https://imgur.com/BFdGJpm.png">
 </p>
 <p>
   
 - SEV-C
   
 <p>
-In the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button. <img src="https://imgur.com/wHniEWB.png">
+In the Admin Panel, click the Manage tab. Select the SLA option. Then, click on the Add New SLA Plan button. <img src="https://imgur.com/wHniEWB.png">
 </p>
 <p>
   
 <p>
-Name the SLA, “SEV-C,” set the Schedule as, “Monday - Friday, 8am - 5pm with U.S. Holidays,” Grace Period, “8 (in hours),” then click the Add Plan button. <img src="https://imgur.com/Yyqm7hn.png">
+Name the SLA “SEV-C,” set the Schedule as, “Monday - Friday, 8am - 5pm with U.S. Holidays,” with a Grace Period, “8 (in hours).” Then, click the Add Plan button. <img src="https://imgur.com/Yyqm7hn.png">
 </p>
 <p>
 
