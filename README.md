@@ -93,7 +93,7 @@ Do not require registration to create tickets, by unchecking the box next to “
 </p>
 <p>
   
-- Configure Agents (help desk professionals)
+- Configure Agents (Help Desk Professionals)
   
 <p>
 In the Admin Panel, within the Agents tab, select Agents, then click the Add New Agent button. <img src="https://imgur.com/2b0C19Z.png">
