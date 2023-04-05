@@ -114,7 +114,7 @@ Name: “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “j
   - Access
   
 <p>
-Click the Access tab to select the agent’s Department, ensuring that the Primary Department “System Administrators,” and Role, “System Admin” have been selected. <img src=https://imgur.com/gwhIuJT.png">
+Click the Access tab to select the Agent’s Department, ensuring that the Primary Department, “System Administrators,” and Role, “System Admin” have been selected. <img src=https://imgur.com/gwhIuJT.png">
 </p>
 <p>
   
