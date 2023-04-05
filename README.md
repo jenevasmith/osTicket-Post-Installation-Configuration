@@ -163,7 +163,7 @@ Create Karen’s Email Address: “Karen@osticket.com,” Full Name: “Karen Ka
 </p>
 <p>
 <p>
-Click Add User. <img src="https://imgur.com/CCcdwDf.png">
+Click the Add User button. <img src="https://imgur.com/CCcdwDf.png">
 </p>
 <p>
   
@@ -177,7 +177,7 @@ Create Ken’s Email Address: “Ken@osticket.com,” Full Name: “Ken Ken”
 </p>
 <p>
 <p>
-Click Add User. <img src="https://imgur.com/lbLWR1M.png">
+Click the Add User button. <img src="https://imgur.com/lbLWR1M.png">
 </p>
 <p>
   
