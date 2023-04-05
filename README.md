@@ -159,17 +159,25 @@ Create a new user named, “Karen” by switching to the Agent Panel. Select the
 <p>
   
 <p>
-Create Karen’s Email Address, “Karen@osticket.com,” Full Name, “Karen Karen.” Click Add User. <img src="https://imgur.com/CCcdwDf.png">
+Create Karen’s Email Address: “Karen@osticket.com,” Full Name: “Karen Karen” 
+</p>
+<p>
+<p>
+Click Add User. <img src="https://imgur.com/CCcdwDf.png">
 </p>
 <p>
   
 <p>
-Create a new user named, “Ken,” in the Agent Panel, select the Users tab, then click the Add User button. <img src="https://imgur.com/tstVOiS.png">
+Create a new user named, “Ken,” in the Agent Panel. Select the Users tab. Then, click the Add User button. <img src="https://imgur.com/tstVOiS.png">
 </p>
 <p>
   
 <p>
-Create Ken’s Email Address, “Ken@osticket.com,” Full Name, “Ken Ken.” Click Add User. <img src="https://imgur.com/lbLWR1M.png">
+Create Ken’s Email Address: “Ken@osticket.com,” Full Name: “Ken Ken” 
+</p>
+<p>
+<p>
+Click Add User. <img src="https://imgur.com/lbLWR1M.png">
 </p>
 <p>
   
