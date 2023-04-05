@@ -141,7 +141,7 @@ In the Account tab, add a New Agent.
 </p>
 <p>
 <p>
-Name: “John Doe,” Email Address: “john.doe@osticket.com,” Username: “john.doe”  
+Name: “John Doe,” Email Address: “John.Doe@osticket.com,” Username: “john.doe”  
 </p>
 <p>
 <p>
