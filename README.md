@@ -107,11 +107,12 @@ In the Account tab, add a New Agent.
 </p>
 <p>
 <p>
-Name: “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “jane.doe” 
+Name: “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “jane.doe” <img src="https://imgur.com/bQtgYEX.png">
 </p>
 <p>
+  
 <p>
-Click the set password button. Select the password and password settings of your choice. <img src="https://imgur.com/bQtgYEX.png">
+Click the Set Password button. Select the password and password settings of your choice. Click the Set button. 150 <img src=".png">
 </p>
 <p>
   
@@ -145,14 +146,15 @@ Name: “John Doe,” Email Address: “John.Doe@osticket.com,” Username: “j
 </p>
 <p>
 <p>
-Click the set password button. Select the password and password settings of your choice. <img src="https://imgur.com/Q4bFPaq.png">
+Click the Set Password button. Select the password and password settings of your choice. Click the Set button.
+151 <img src=".png">
 </p>
 <p>
   
-- Configure Users (customers)
+- Configure Users (Customers)
   
 <p>
-Create a new user named, “Karen” by switching to the Agent Panel, select the Users tab, then click the Add User button. <img src="https://imgur.com/f25OtMv.png">
+Create a new user named, “Karen” by switching to the Agent Panel. Select the Users tab. Then, click the Add User button. <img src="https://imgur.com/f25OtMv.png">
 </p>
 <p>
   
