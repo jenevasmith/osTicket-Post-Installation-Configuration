@@ -184,7 +184,7 @@ Click the Add User button. <img src="https://imgur.com/lbLWR1M.png">
 - Configure SLA
   
 <p>
-Switch back to the Admin Panel, click the Manage tab, select the SLA option, then click on the Add New SLA Plan button. <img src="https://imgur.com/lxNq2Rt.png">
+Switch back to the Admin Panel. Click the Manage tab. Select the SLA option. Then, click on the Add New SLA Plan button. <img src="https://imgur.com/lxNq2Rt.png">
 </p>
 <p>
   
