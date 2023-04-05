@@ -103,7 +103,7 @@ In the Admin Panel, within the Agents tab, select Agents, then click the Add New
 - Agents
   
 <p>
-In the Account tab, add a New Agent - Name, “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “jane.doe” Click the set password button, selecting the password and password settings of your choice. <img src="https://imgur.com/bQtgYEX.png">
+In the Account tab, add a New Agent - Name: “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “jane.doe.” Click the set password button. Select the password and password settings of your choice. <img src="https://imgur.com/bQtgYEX.png">
 </p>
 <p>
   
