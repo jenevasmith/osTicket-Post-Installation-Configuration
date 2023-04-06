@@ -159,18 +159,20 @@ In the Account tab, add a New Agent.
 </p>
 <p>
 <p>
-Name: “John Doe,” Email Address: “John.Doe@osticket.com,” Username: “john.doe”  
+Name: “John Doe,” Email Address: “John.Doe@osticket.com,” Username: “john.doe”
+<p>
+Click the Set Password button. 151
 </p>
 <p>
 <p>
-Click the Set Password button. Select the password and password settings of your choice. Click the Set button.
+Select the password and password settings of your choice. Click the Set button.
 151 <img src=".png">
 </p>
 <p>
   
 - Access
 <p>
-Then, click the Access tab. Assign “System Administrators,” “Supreme Admin,” and “Support” as John Doe’s Department, Role, and Extended Access, respectively. Afterwards, click the Create button. 152 <img src=".png">
+Then, click the Access tab. Assign “System Administrators,” “Supreme Admin,” and “Support” as John Doe’s Department, Role, and Extended Access, respectively. Afterwards, click the Create button. 153 <img src=".png">
 </p>
 <p>
 
