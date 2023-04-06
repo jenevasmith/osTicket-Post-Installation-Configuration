@@ -59,7 +59,7 @@ Name a Department “System Administrators.” Then, click the Create Dept butto
 - Configure Teams
   
 <p>
-In the Admin Panel, within the Agents tab, select Teams, then click on the Add New DepaTeam button. <img src="https://imgur.com/jQjYPjM.png">
+In the Admin Panel, within the Agents tab, select Teams, then click on the Add New Department button. <img src="https://imgur.com/jQjYPjM.png">
 </p>
 <p>
 
