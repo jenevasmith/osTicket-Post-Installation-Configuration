@@ -123,12 +123,13 @@ In the Account tab, add a New Agent.
 </p>
 <p>
 <p>
-Name: “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “jane.doe” <img src="https://imgur.com/bQtgYEX.png">
+Name: “Jane Doe,” Email Address: “jane.doe@osticket.com,” Username: “jane.doe”
+<p> Click the Set Password button. <img src="https://imgur.com/bQtgYEX.png">
 </p>
 <p>
   
 <p>
-Click the Set Password button. Select the password and password settings of your choice. Click the Set button. 150 <img src=".png">
+Select the password and password settings of your choice. Click the Set button. 150 <img src=".png">
 </p>
 <p>
   
