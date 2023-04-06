@@ -154,7 +154,7 @@ Click the Access tab to select the Agent’s Department, ensuring that the Prima
  - Support
   
 <p>
-In the Extended Access section, click the “Select Department” drop down menu, then select “Support.” Afterwards, click the Create button. <img src="https://imgur.com/nLKMn96.png">
+In the Extended Access section, click the “Select Department” drop down menu, then select “Support.” Afterwards, click the Save Changes button. <img src="https://imgur.com/nLKMn96.png">
 </p>
 <p>
   
@@ -177,7 +177,7 @@ Select the password and password settings of your choice. Click the Set button. 
   
 - Access
 <p>
-Then, click the Access tab. Assign “System Administrators,” “Supreme Admin,” and “Support” as John Doe’s Department, Role, and Extended Access, respectively. Afterwards, click the Create button. <img src="https://imgur.com/dkb74nS.png">
+Then, click the Access tab. Assign “System Administrators,” “Supreme Admin,” and “Support” as John Doe’s Department, Role, and Extended Access, respectively. Afterwards, click the Save Changes button. <img src="https://imgur.com/dkb74nS.png">
 </p>
 <p>
 
