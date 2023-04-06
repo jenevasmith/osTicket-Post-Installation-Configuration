@@ -54,7 +54,9 @@ In the Tickets section select all of the options: “Assign…” “Close…”
 <p>
 
 <p>
-Click on the Tasks section. Then, select all of the options:  “Assign…” “Close…” “Create…” “Delete…” “Edit…” “Post Reply…” “Transfer…” 147
+Click on the Tasks section. Then, select all of the options:  “Assign…” “Close…” “Create…” “Delete…” “Edit…” “Post Reply…” “Transfer…” <img src="https://imgur.com/URo20ZS.png">
+</p>
+<p>
 
 - Knowledgebase
 <p>
