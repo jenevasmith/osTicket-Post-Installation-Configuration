@@ -35,12 +35,18 @@ In the Admin Panel, within the Agents tab, select Roles, then click Add New Role
 <p>
   
 - Supreme Admin
- <p>
+<p>
     
 <p> 
-Name the New Role, “Supreme Admin,” then click the “Add Role” button. <img src="https://imgur.com/8gDvdux.png">
+Name the New Role, “Supreme Admin,” then click the the Permissions tab. <img src="https://imgur.com/8gDvdux.png">
 </p>
 <p>
+
+- Tickets
+<p>
+
+<p>
+In the Tickets section select all of the options: “Assign…” “Close…” “Create…” “Delete…” “Edit…” “Edit Thread…” “Link…” “Mark as Answered…” “Merge…” “Post Reply…” “Refer…” “Release…” “Transfer…” 146
   
 - Configure Departments
 
