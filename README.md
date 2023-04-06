@@ -260,7 +260,7 @@ Select the Help Topics option, then click the Add New Help Topic button. <img sr
 
 - Equipment Request
 <p>
-Within the Help Topic Information tab, add “Equipment Request” as a Topic, then click the Add Topic button. <img src="https://imgur.com/u0wL58g.png">
+Within the Help Topic Information tab, add “Equipment Request” as a Topic. Then, click the Add Topic button. <img src="https://imgur.com/u0wL58g.png">
 </p>
 <p>
   
