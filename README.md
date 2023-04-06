@@ -300,6 +300,6 @@ Select the Help Topics option, then click the Add New Help Topic button. <img sr
 - Password Reset
   
 <p>
-Add “Password Reset” as a Topic, then click the Add Topic button. <img src="https://imgur.com/5XgLSDq.png">
+Add “Password Reset” as a Topic, then click the Save Changes button. <img src="https://imgur.com/5XgLSDq.png">
 </p>
 <p>
