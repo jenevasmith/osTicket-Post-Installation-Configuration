@@ -62,7 +62,11 @@ Click on the Tasks section. Then, select all of the options:  “Assign…” �
 <p>
 
 <p>
-Click on the Knowledgebase section. Then, select the “Premade…” option, followed by the Save Changes button. 148
+Click on the Knowledgebase section. Then, select the “Premade…” option, followed by the Save Changes button. <img src="https://imgur.com/fBXanap.png">
+</p>
+<p>
+  
+  
 
 - Configure Departments
 
