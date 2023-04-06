@@ -53,7 +53,10 @@ In the Tickets section select all of the options: “Assign…” “Close…”
 
 <p>
 Click on the Tasks section. Then, select all of the options:  “Assign…” “Close…” “Create…” “Delete…” “Edit…” “Post Reply…” “Transfer…” 147
-  
+
+- Knowledgebase 
+Click on the Knowledgebase section. Then, select the “Premade…” option, followed by the Save Changes button. 148
+
 - Configure Departments
 
 <p>
