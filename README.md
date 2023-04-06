@@ -154,12 +154,7 @@ Click the Access tab to select the Agent’s Department, ensuring that the Prima
  - Support
   
 <p>
-In the Extended Access section, click the “Select Department” drop down menu, then select “Support.” <img src="https://imgur.com/nLKMn96.png">
-                               
-- Supreme Admin
-  
-<p>
-In the Extended Access section, click on the “Select Role” drop down menu and select the “Supreme Admin” option. Afterwards, click the Create button. <https://imgur.com/gwhIuJT.png">
+In the Extended Access section, click the “Select Department” drop down menu, then select “Support.” Afterwards, click the Create button. <img src="https://imgur.com/nLKMn96.png">
 </p>
 <p>
   
