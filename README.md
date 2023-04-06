@@ -149,6 +149,12 @@ Click the Set Password button. Select the password and password settings of your
 </p>
 <p>
   
+- Access
+<p>
+Then, click the Access tab. Assign “System Administrators,” “Supreme Admin,” and “Support” as John Doe’s Department, Role, and Extended Access, respectively. Afterwards, click the Create button. 152 <img src=".png">
+</p>
+<p>
+
 - Configure Users (Customers)
   
 <p>
