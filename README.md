@@ -233,7 +233,7 @@ In the Admin Panel, click on the Manage tab, select the Help Topics option, then
 - Business Critical Outage
   
 <p>
-Within the Help Topic Information tab, add “Business Critical Outage” as a Topic, then click the Add Topic button. <img src="https://imgur.com/e5UquAT.png">
+Within the Help Topic Information tab, add “Business Critical Outage” as the Topic, then click the Add Topic button. <img src="https://imgur.com/e5UquAT.png">
 </p>
 <p>
 
