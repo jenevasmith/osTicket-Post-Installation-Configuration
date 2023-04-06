@@ -70,7 +70,7 @@ In the Admin Panel, within the Agents tab, select Departments, then click the �
 - System Administrators 
 
 <p> 
-Add a New Department within the Settings named, “System Administrators,” then click the Create Dept button. 149 <img src="https://imgur.com/XAWStbW.png">
+Within the Settings tab, name the New Department, “System Administrators." Then, click the Create Department button. 149 <img src="https://imgur.com/XAWStbW.png">
 </p>
 <p>
   
