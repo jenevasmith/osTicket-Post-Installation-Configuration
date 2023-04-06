@@ -41,7 +41,6 @@ In the Admin Panel, within the Agents tab, select Roles, then click Add New Role
 Name the New Role, “Supreme Admin,” then click the “Add Role” button. <img src="https://imgur.com/8gDvdux.png">
 </p>
 <p>
-
   
 - Configure Departments
 
@@ -50,7 +49,6 @@ In the Admin Panel, within the Agents tab, select Departments, then click the �
 </p>
 <p>
 
-  
 - System Administrators
   
 <p>
