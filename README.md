@@ -177,7 +177,7 @@ Select the password and password settings of your choice. Click the Set button. 
   
 - Access
 <p>
-Then, click the Access tab. Assign “System Administrators,” “Supreme Admin,” and “Support” as John Doe’s Department, Role, and Extended Access, respectively. Afterwards, click the Save Changes button. <img src="https://imgur.com/dkb74nS.png">
+Then, click the Access tab. Assign “System Administrators,” “Supreme Admin,” and “Support” as John Doe’s Department, Role, and Extended Access, respectively. Afterwards, click the Create button. <img src="https://imgur.com/dkb74nS.png">
 </p>
 <p>
 
