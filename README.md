@@ -48,6 +48,12 @@ Name the New Role, “Supreme Admin,” then click the the Permissions tab. <img
 <p>
 In the Tickets section select all of the options: “Assign…” “Close…” “Create…” “Delete…” “Edit…” “Edit Thread…” “Link…” “Mark as Answered…” “Merge…” “Post Reply…” “Refer…” “Release…” “Transfer…” 146
   
+- Tasks
+<p>
+
+<p>
+Click on the Tasks section. Then, select all of the options:  “Assign…” “Close…” “Create…” “Delete…” “Edit…” “Post Reply…” “Transfer…” 147
+  
 - Configure Departments
 
 <p>
