@@ -97,7 +97,7 @@ Notice how Level I Support is a default team within osTicket. <img src="https://
 - Level II Support
   
 <p>
-Click the Add New Team button. Then, name the team “Level II Support.” <img src="https://imgur.com/nU04zbv.png">
+Click the Add New Team button, name the team “Level II Support.” Then, click the Add New Team button to add the Level II Support Team. <img src="https://imgur.com/nU04zbv.png">
 </p>
 <p>
   
